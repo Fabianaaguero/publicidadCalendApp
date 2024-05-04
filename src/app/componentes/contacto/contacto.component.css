@@ -54,7 +54,6 @@ button:hover {
 }
 
 .alert {
-  width: 50%;
   margin: 0 auto;
   padding: 10px;
   border-radius: 5px;
@@ -68,6 +67,7 @@ button:hover {
 }
 
 .alert-success {
+  width: 50%;
   color: #155724;
   background-color: #d4edda;
   border: 1px solid #c3e6cb;
